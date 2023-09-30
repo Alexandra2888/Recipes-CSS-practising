@@ -1,4 +1,4 @@
-<img <img  width=“964” alt="receipe" src="https://github.com/Alexandra2888/Recipes-CSS-practising/blob/master/recipe.png">
+<img  width=“964” alt="receipe" src="https://github.com/Alexandra2888/Recipes-CSS-practising/blob/master/recipe.png">
 
 
 # Recipes-CSS-practising
